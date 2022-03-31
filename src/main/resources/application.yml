@@ -1,0 +1,7 @@
+spring:
+  kafka:
+    bootstrap-servers: 120.24.176.228:9092
+
+
+server:
+  port: 9000
